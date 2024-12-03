@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+
 # shellcheck disable=SC2034
 dns_Technitium_info='Technitium DNS Server
 
