@@ -10,8 +10,6 @@ Issues: github.com/acmesh-official/acme.sh/issues/6116
 Author: Henning Reich <acmesh@qupfer.de>
 '
 
-# comment to trigger workflow
-
 dns_technitium_add() {
   _info "add txt Record using Technitium"
   _Technitium_account
